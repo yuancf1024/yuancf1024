@@ -15,6 +15,8 @@
 | [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuancf1024)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuancf1024&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+#### 公众号
+![Go初学者](https://i.loli.net/2021/11/16/8rL6fPq49ypSlAi.png)
 
 <!--
 **yuancf1024/yuancf1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
