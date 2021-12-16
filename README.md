@@ -9,6 +9,8 @@
 #### Project
 
 * [Coding-cf](https://github.com/yuancf1024/Coding-cf): some practice code for learning go, java, cloudcomputing & algorithm(一些平平无奇的学习代码~)
+* [learn-go](https://github.com/yuancf1024/learn-go): 学习Go的笔记及代码
+* []
 
 #### Github Stats
 
