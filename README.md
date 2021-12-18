@@ -7,10 +7,12 @@
 * 知乎：[安然](https://www.zhihu.com/people/zhumengcf)，分享一些琐碎的知识，学习笔记同步更新于专栏[筑梦cf的blog](https://www.zhihu.com/column/c_1442897142885548032)。
 
 #### Project
-
-* [Coding-cf](https://github.com/yuancf1024/Coding-cf): some practice code for learning go, java, cloudcomputing & algorithm(一些平平无奇的学习代码~)
 * [learn-go](https://github.com/yuancf1024/learn-go): 学习Go的笔记及代码
-* []
+* [algorithm-go](https://github.com/yuancf1024/algorithm-go): ✨ 小白的leetcode刷题和算法学习记录
+* [learn-go-with-tests](https://github.com/yuancf1024/learn-go-with-tests): 通过 Go 语言学习测试驱动开发😀
+* [Coding-cf](https://github.com/yuancf1024/Coding-cf): some practice code for learning go, java, cloudcomputing & algorithm(一些平平无奇的学习代码~)
+* [ultimate-go-cn](https://github.com/yuancf1024/ultimate-go-cn): Go学习终极笔记 The Ultimate Go Study Guide-CN
+
 
 #### Github Stats
 
