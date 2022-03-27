@@ -12,6 +12,7 @@
 * [learn-go-with-tests](https://github.com/yuancf1024/learn-go-with-tests): 通过 Go 语言学习测试驱动开发😀
 * [Coding-cf](https://github.com/yuancf1024/Coding-cf): some practice code for learning go, java, cloudcomputing & algorithm(一些平平无奇的学习代码~)
 * [ultimate-go-cn](https://github.com/yuancf1024/ultimate-go-cn): Go学习终极笔记 The Ultimate Go Study Guide-CN
+* [cpp-learn](https://github.com/yuancf1024/cpp-learn): 小白入门C++
 
 
 #### Github Stats
