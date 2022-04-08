@@ -9,9 +9,9 @@
 #### Project
 
 * [algorithm-go](https://github.com/yuancf1024/algorithm-go): ✨ 小白的leetcode刷题和算法学习记录
-* [cpp-learn](https://github.com/yuancf1024/cpp-learn): 小白入门C++
+* [cpp-learn](https://github.com/yuancf1024/cpp-learn): 💪小白入门C++
 * [TinyWebServer](https://github.com/yuancf1024/TinyWebServer.git): 🔥Linux下C++轻量级Web服务器.
-* [7days-golang](https://github.com/yuancf1024/7days-golang.git): 7天用Go从零实现系列：Web框架，分布式缓存，ORM框架，RPC框架
+* [7days-golang](https://github.com/yuancf1024/7days-golang.git): ⭐7天用Go从零实现系列：Web框架，分布式缓存，ORM框架，RPC框架
 * [learn-go-with-tests](https://github.com/yuancf1024/learn-go-with-tests): 通过 Go 语言学习测试驱动开发😀
 * [learn-go](https://github.com/yuancf1024/learn-go.git): ✅ Go语言学习笔记及代码
 
