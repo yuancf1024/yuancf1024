@@ -3,8 +3,11 @@
 #### Contact Me
 
 * Blog：[yuancf1024的博客](https://yuancf1024.github.io/)，个人博客网站，分享学习记录、碎碎念。
+
+<!--
 * 微信公众号：yuancf1024 **Go初学者**，分享Go语言学习笔记，以零基础小白的视角带你进入 Go 的世界。
 * 知乎：[安然](https://www.zhihu.com/people/zhumengcf)，分享一些琐碎的知识，学习笔记同步更新于专栏[筑梦cf的blog](https://www.zhihu.com/column/c_1442897142885548032)。
+-->
 
 #### Project
 
