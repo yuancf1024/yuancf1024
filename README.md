@@ -35,7 +35,7 @@
         <img height='180px' src="https://stats.justsong.cn/api/leetcode?username=zhumengcf&cn=true&theme=dark">
         <p></p>
         <img height='160px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuancf1024&theme=dark&layout=compact">
-        <img height='160px' src="https://github-readme-stats.vercel.app/api?username=yuancf1024&show_icons=true&theme=dark">
+        <img height='160px' src="https://github-readme-stats.vercel.app/api?username=yuancf1024&show_icons=true&theme=dracula">
 </div>
 
 #### 公众号
