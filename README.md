@@ -26,7 +26,7 @@
 
 #### Github Stats
 <!--
-| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuancf1024)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuancf1024&hide=javascript,html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuancf1024)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuancf1024&hide=jupyter%20notebook,javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 -->
 
