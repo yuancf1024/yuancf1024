@@ -1,4 +1,4 @@
-### Hi there 👋 我是 yuancf1024，一名 Gopher & Pythonista
+### Hi there 👋 我是 yuancf1024，一名 C++er & Gopher
 
 #### Contact Me
 
@@ -11,8 +11,8 @@
 
 #### Project
 
-* [algorithm-go](https://github.com/yuancf1024/algorithm-go): ✨ 小白的leetcode刷题和算法学习记录
-* [cpp-learn](https://github.com/yuancf1024/cpp-learn): 💪小白入门C++
+* [algorithm-go](https://github.com/yuancf1024/algorithm-go): ✨ 小白的leetcode刷题和算法学习记录(C++&Go)
+* [cpp-learn](https://github.com/yuancf1024/cpp-learn): 💪C++学习笔记
 * [TinyWebServer](https://github.com/yuancf1024/TinyWebServer.git): 🔥Linux下C++轻量级Web服务器.
 * [7days-golang](https://github.com/yuancf1024/7days-golang.git): ⭐7天用Go从零实现系列：Web框架，分布式缓存，ORM框架，RPC框架
 * [learn-go-with-tests](https://github.com/yuancf1024/learn-go-with-tests): 通过 Go 语言学习测试驱动开发😀
