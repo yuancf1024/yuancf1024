@@ -39,7 +39,7 @@
 </div>
 
 #### 公众号
-![Chris乘风破浪]([https://i.loli.net/2021/11/16/8rL6fPq49ypSlAi.png](https://s1.locimg.com/2023/07/10/99e03a8dd1528.png))
+![Chris乘风破浪](https://3o.hk/images/2023/07/10/_-.png)
 
 <!--
 **yuancf1024/yuancf1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
